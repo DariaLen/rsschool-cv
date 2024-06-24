@@ -43,3 +43,17 @@ Internationale Technische Schule Tel-Ran - Berlin_
 
 _Sozialwissenschaften mit Schwerpunkt Sozialarbeit, 09/2004 - 07/2007
 College of Chemical Technology - Cherepovets_
+
+> ### SPRACHEN
+
+**Russisch:**
+
+- Muttersprache
+
+**Deutsch:**
+
+- B2
+
+**Englisch:**
+
+- B1
