@@ -1,7 +1,5 @@
 # DARIA LENSCHMIDT
 
----
-
 > ### KONTAKT
 
 Adresse: 69181, Leimen
@@ -57,3 +55,17 @@ College of Chemical Technology - Cherepovets_
 **Englisch:**
 
 - B1
+
+> ### KOMPETENZEN
+
+- Anpassungsfähigkeit
+- Belastbarkeit
+- Teamarbeit
+- HTML
+- CSS/SASS
+- React/Redux
+- MySQL
+- Git
+- JavaScript
+- Figma
+- Photoshop
