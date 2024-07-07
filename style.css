@@ -21,6 +21,7 @@ body {
     justify-content: flex-end;
     background-color: rgba(176, 202, 236, 0.841);
     padding: 20px 40px;
+
 }
 
 .wrapper {
@@ -93,7 +94,6 @@ text-align: center;
 .container {
     max-width: 1440px;
     display: flex;
-    /* flex-direction: column; */
     flex-wrap: wrap;
     align-items: center;
     gap: 20px;
@@ -150,14 +150,26 @@ p {
 p i {
     margin-right: 10px;
 }
+.section li{
+    list-style-type: square;
+}
+#skills{
+    margin-left: 20px;
+}
 .summary-section{
    display: flex;
    flex-direction: column;
+   padding-bottom: 100px;
 }
-/* .summary-section p{
-    color: rgb(63, 63, 63);
-
-} */
+.logo{
+    width: 100px;
+}
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    width:90%;
+    margin: 20px 40px;
+}
 @media (max-width: 768px) {
     .section {
         width: 100%;
