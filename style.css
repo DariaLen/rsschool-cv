@@ -108,17 +108,56 @@ text-align: center;
 
 .section {
     width: 45%;
-    min-height: 100px;
+    gap: 20px;
     padding: 20px;
-
     border-bottom: 1px solid rgba(194, 200, 209, 0.841);
 }
 
+.section p{
+    color: rgb(63, 63, 63);
+}
 .decoration-line{
     width: 100%;
     height: 10px;
     background-color: rgba(194, 200, 209, 0.841);
 }
+.my-contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.my-contacts p{
+    color: rgb(146, 193, 125);
+}
+.my-contacts a{
+text-decoration: none;
+  color: rgb(146, 193, 125);
+}
+
+.label {
+    color: rgb(63, 63, 63); 
+}
+
+.info {
+    color: rgb(146, 193, 125);
+}
+
+p {
+    display: flex;
+    align-items: center;
+}
+
+p i {
+    margin-right: 10px;
+}
+.summary-section{
+   display: flex;
+   flex-direction: column;
+}
+/* .summary-section p{
+    color: rgb(63, 63, 63);
+
+} */
 @media (max-width: 768px) {
     .section {
         width: 100%;
